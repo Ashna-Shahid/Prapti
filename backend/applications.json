@@ -1,0 +1,25 @@
+[
+    {
+        "scheme_id": "demo_001",
+        "status": "Preparing Documents",
+        "id": 1
+    },
+    {
+        "id": 2,
+        "scheme_id": "pm_usp_csss_2026",
+        "scheme_name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+        "status": "Not Started"
+    },
+    {
+        "id": 3,
+        "scheme_id": "pm_usp_csss_2026",
+        "scheme_name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+        "status": "Not Started"
+    },
+    {
+        "id": 4,
+        "scheme_id": "pm_usp_csss_2026",
+        "scheme_name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+        "status": "Not Started"
+    }
+]

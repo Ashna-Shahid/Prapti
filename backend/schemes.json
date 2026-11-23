@@ -1,0 +1,269 @@
+
+[
+  {
+    "id": "demo_001",
+    "name": "Delhi Student Financial Assistance",
+    "authority": "PRAPTI Demonstration Dataset",
+    "description": "Synthetic example of financial assistance for students pursuing higher education.",
+    "location": "Delhi",
+    "official_url": null,
+    "application_url": null,
+    "deadline": null,
+    "verification_status": "demo_only",
+    "last_verified": null,
+    "eligibility": {
+      "states": ["Delhi"],
+      "min_age": 17,
+      "max_age": 30,
+      "max_income": 250000,
+      "education_levels": [
+        "undergraduate"
+      ],
+      "courses": [],
+      "categories": []
+    },
+    "documents": [
+      "Income certificate",
+      "Proof of admission",
+      "Previous academic marksheet",
+      "Bank account proof"
+    ],
+    "application_steps": [
+      "Check the eligibility requirements.",
+      "Prepare the required documents.",
+      "Visit the relevant official scholarship portal."
+    ]
+  },
+  {
+    "id": "demo_002",
+    "name": "National Higher Education Scholarship - Sample",
+    "authority": "PRAPTI Demonstration Dataset",
+    "description": "Synthetic example of a scholarship for undergraduate students.",
+    "location": "All India",
+    "official_url": null,
+    "application_url": null,
+    "deadline": null,
+    "verification_status": "demo_only",
+    "last_verified": null,
+    "eligibility": {
+      "states": [],
+      "min_age": 17,
+      "max_age": 25,
+      "max_income": 400000,
+      "education_levels": [
+        "undergraduate"
+      ],
+      "courses": [],
+      "categories": []
+    },
+    "documents": [
+      "Income certificate",
+      "Academic marksheets",
+      "Admission proof",
+      "Bank account proof"
+    ],
+    "application_steps": [
+      "Review the scheme requirements.",
+      "Collect supporting documents.",
+      "Check the relevant official scholarship portal."
+    ]
+  },
+  {
+    "id": "demo_003",
+    "name": "Postgraduate Education Support - Sample",
+    "authority": "PRAPTI Demonstration Dataset",
+    "description": "Synthetic example of financial support for postgraduate students.",
+    "location": "All India",
+    "official_url": null,
+    "application_url": null,
+    "deadline": null,
+    "verification_status": "demo_only",
+    "last_verified": null,
+    "eligibility": {
+      "states": [],
+      "min_age": 21,
+      "max_age": 35,
+      "max_income": 300000,
+      "education_levels": [
+        "postgraduate"
+      ],
+      "courses": [],
+      "categories": []
+    },
+    "documents": [
+      "Graduation marksheet",
+      "Income certificate",
+      "Admission proof"
+    ],
+    "application_steps": [
+      "Review the eligibility criteria.",
+      "Prepare academic and income documents.",
+      "Check official application information."
+    ]
+  },
+
+  {
+    "id": "pm_usp_csss_2026",
+    "name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+    "authority": "Department of Higher Education, Ministry of Education, Government of India",
+    "description": "A merit-cum-means scholarship providing financial assistance to eligible students pursuing higher education. Fresh applications for academic year 2026-27 are open through the National Scholarship Portal.",
+    "location": "All India",
+    "official_url": "https://www.education.gov.in/",
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": "2026-11-30",
+    "verification_status": "verified",
+    "last_verified": "2026-11-22",
+    "eligibility": {
+      "states": [],
+      "min_age": null,
+      "max_age": null,
+      "max_income": 450000,
+      "education_levels": ["undergraduate"],
+      "courses": [],
+      "categories": [],
+      "min_class12_percentile": 80,
+      "regular_course_only": true,
+      "no_other_scholarship": true,
+      "no_gap_after_class12": true
+    },
+    "documents": [
+      "Class 12 marksheet",
+      "Family income certificate",
+      "Category certificate, if applicable",
+      "Admission proof",
+      "Bank account details"
+    ],
+    "application_steps": [
+      "Check the official eligibility conditions.",
+      "Register or log in to the National Scholarship Portal.",
+      "Complete the fresh application form.",
+      "Upload the required documents.",
+      "Submit the application and track its verification status."
+    ]
+  },
+
+
+  {
+    "id": "aicte_pragati_degree_2026",
+    "name": "AICTE Pragati Scholarship Scheme for Girl Students (Technical Degree)",
+    "authority": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+    "description": "Financial assistance for eligible girl students pursuing technical degree courses in AICTE-approved institutions. Provides assistance of up to Rs. 50,000 per year.",
+    "location": "All India",
+    "official_url": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": "2026-11-30",
+    "verification_status": "verified",
+    "last_verified": "2026-11-22",
+    "eligibility": {
+      "states": [],
+      "min_age": null,
+      "max_age": null,
+      "max_income": 800000,
+      "education_levels": ["undergraduate"],
+      "courses": [],
+      "categories": [],
+      "requires_female_student": true,
+      "aicte_approved_institution_only": true,
+      "first_or_lateral_entry_only": true,
+      "maximum_girl_children_per_family": 2
+    },
+    "documents": [
+      "Class 12 marksheet",
+      "Family income certificate",
+      "Admission proof",
+      "Bank account details",
+      "Photograph and signature",
+      "Other documents required by NSP"
+    ],
+    "application_steps": [
+      "Check the official AICTE Pragati eligibility guidelines.",
+      "Register or log in to the National Scholarship Portal.",
+      "Complete the scholarship application.",
+      "Upload the required documents.",
+      "Submit the application for institutional verification."
+    ]
+  },
+  {
+    "id": "aicte_saksham_degree_2026",
+    "name": "AICTE Saksham Scholarship Scheme for Specially Abled Students (Technical Degree)",
+    "authority": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+    "description": "Financial assistance for specially-abled students pursuing technical degree courses in AICTE-approved institutions. Provides assistance of up to Rs. 50,000 per year.",
+    "location": "All India",
+    "official_url": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": "2026-11-30",
+    "verification_status": "verified",
+    "last_verified": "2026-11-22",
+    "eligibility": {
+      "states": [],
+      "min_age": null,
+      "max_age": null,
+      "max_income": 800000,
+      "education_levels": ["undergraduate"],
+      "courses": [],
+      "categories": [],
+      "minimum_disability_percent": 40,
+      "aicte_approved_institution_only": true,
+      "first_or_lateral_entry_only": true
+    },
+    "documents": [
+      "Disability certificate",
+      "Family income certificate",
+      "Class 12 marksheet",
+      "Admission proof",
+      "Bank account details",
+      "Other documents required by NSP"
+    ],
+    "application_steps": [
+      "Check the official AICTE Saksham eligibility guidelines.",
+      "Register or log in to the National Scholarship Portal.",
+      "Complete the scholarship application.",
+      "Upload the required documents.",
+      "Submit the application for institutional verification."
+    ]
+  },
+  {
+    "id": "aicte_swanath_degree_2026",
+    "name": "AICTE Swanath Scholarship Scheme (Technical Degree)",
+    "authority": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+    "description": "Financial assistance for eligible students who are orphans, wards of parents who died due to COVID-19, or wards of Armed Forces and Central Paramilitary Forces personnel martyred in action. Provides assistance of up to Rs. 50,000 per year.",
+    "location": "All India",
+    "official_url": "https://www.aicte.gov.in/sites/default/files/AICTE-SWANATH.pdf",
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": "2026-11-30",
+    "verification_status": "verified",
+    "last_verified": "2026-11-22",
+    "eligibility": {
+      "states": [],
+      "min_age": null,
+      "max_age": null,
+      "max_income": 800000,
+      "education_levels": ["undergraduate"],
+      "courses": [],
+      "categories": [],
+      "swanath_qualifying_statuses": [
+        "orphan",
+        "parents_died_due_to_covid",
+        "armed_forces_martyred",
+        "central_paramilitary_forces_martyred"
+      ],
+      "aicte_approved_institution_only": true
+    },
+    "documents": [
+      "Relevant orphan or parent death certificate, as applicable",
+      "Relevant Armed Forces or Central Paramilitary Forces certificate, as applicable",
+      "Family income certificate",
+      "Admission proof",
+      "Bank account details",
+      "Other documents required by NSP"
+    ],
+    "application_steps": [
+      "Check the official AICTE Swanath eligibility guidelines.",
+      "Register or log in to the National Scholarship Portal.",
+      "Complete the scholarship application.",
+      "Upload the applicable supporting documents.",
+      "Submit the application for institutional verification."
+    ]
+  }
+
+]
